@@ -4,3 +4,6 @@ E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Ty
 E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution2\01.Special_Numbers\obj\Debug\01.Special_Numbers.csprojResolveAssemblyReference.cache
 E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution2\01.Special_Numbers\obj\Debug\01.Special_Numbers.exe
 E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution2\01.Special_Numbers\obj\Debug\01.Special_Numbers.pdb
+E:\Programming\Softuni\Programming-Fundamentals-Extended\Data Types Numeral Types and Type Conversion - Lab\Text and Other Types\01.Special_Numbers\bin\Debug\01.Special_Numbers.exe.config
+E:\Programming\Softuni\Programming-Fundamentals-Extended\Data Types Numeral Types and Type Conversion - Lab\Text and Other Types\01.Special_Numbers\obj\Debug\01.Special_Numbers.exe
+E:\Programming\Softuni\Programming-Fundamentals-Extended\Data Types Numeral Types and Type Conversion - Lab\Text and Other Types\01.Special_Numbers\obj\Debug\01.Special_Numbers.pdb
