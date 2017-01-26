@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution1\02.Circle-Perimeter\bin\Debug\02.Circle-Perimeter.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution1\02.Circle-Perimeter\bin\Debug\02.Circle-Perimeter.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution1\02.Circle-Perimeter\bin\Debug\02.Circle-Perimeter.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution1\02.Circle-Perimeter\obj\Debug\02.Circle-Perimeter.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Solution1\02.Circle-Perimeter\obj\Debug\02.Circle-Perimeter.pdb
