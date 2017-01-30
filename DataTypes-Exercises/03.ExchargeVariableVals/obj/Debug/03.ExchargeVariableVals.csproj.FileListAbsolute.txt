@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\03.ExchargeVariableVals\bin\Debug\03.ExchargeVariableVals.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\03.ExchargeVariableVals\bin\Debug\03.ExchargeVariableVals.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\03.ExchargeVariableVals\bin\Debug\03.ExchargeVariableVals.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\03.ExchargeVariableVals\obj\Debug\03.ExchargeVariableVals.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\03.ExchargeVariableVals\obj\Debug\03.ExchargeVariableVals.pdb

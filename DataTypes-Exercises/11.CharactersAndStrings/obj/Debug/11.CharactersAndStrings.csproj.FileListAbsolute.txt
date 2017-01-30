@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\11.CharactersAndStrings\bin\Debug\11.CharactersAndStrings.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\11.CharactersAndStrings\bin\Debug\11.CharactersAndStrings.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\11.CharactersAndStrings\bin\Debug\11.CharactersAndStrings.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\11.CharactersAndStrings\obj\Debug\11.CharactersAndStrings.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\11.CharactersAndStrings\obj\Debug\11.CharactersAndStrings.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\11.CharactersAndStrings\obj\Debug\11.CharactersAndStrings.pdb

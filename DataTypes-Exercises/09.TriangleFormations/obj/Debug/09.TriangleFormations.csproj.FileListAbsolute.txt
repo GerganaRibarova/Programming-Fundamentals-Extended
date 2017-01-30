@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\09.TriangleFormations\bin\Debug\09.TriangleFormations.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\09.TriangleFormations\bin\Debug\09.TriangleFormations.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\09.TriangleFormations\bin\Debug\09.TriangleFormations.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\09.TriangleFormations\obj\Debug\09.TriangleFormations.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\09.TriangleFormations\obj\Debug\09.TriangleFormations.pdb

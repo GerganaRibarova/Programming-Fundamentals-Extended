@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\12.HexadecimalFormat\bin\Debug\12.HexadecimalFormat.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\12.HexadecimalFormat\bin\Debug\12.HexadecimalFormat.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\12.HexadecimalFormat\bin\Debug\12.HexadecimalFormat.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\12.HexadecimalFormat\obj\Debug\12.HexadecimalFormat.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\12.HexadecimalFormat\obj\Debug\12.HexadecimalFormat.pdb

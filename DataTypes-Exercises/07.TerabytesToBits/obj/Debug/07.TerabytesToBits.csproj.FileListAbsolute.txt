@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\07.TerabytesToBits\bin\Debug\07.TerabytesToBits.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\07.TerabytesToBits\bin\Debug\07.TerabytesToBits.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\07.TerabytesToBits\bin\Debug\07.TerabytesToBits.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\07.TerabytesToBits\obj\Debug\07.TerabytesToBits.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\07.TerabytesToBits\obj\Debug\07.TerabytesToBits.pdb

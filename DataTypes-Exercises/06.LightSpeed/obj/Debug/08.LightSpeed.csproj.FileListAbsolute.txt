@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.LightSpeed\bin\Debug\06.LightSpeed.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.LightSpeed\bin\Debug\06.LightSpeed.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.LightSpeed\bin\Debug\06.LightSpeed.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.LightSpeed\obj\Debug\08.LightSpeed.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.LightSpeed\obj\Debug\06.LightSpeed.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.LightSpeed\obj\Debug\06.LightSpeed.pdb

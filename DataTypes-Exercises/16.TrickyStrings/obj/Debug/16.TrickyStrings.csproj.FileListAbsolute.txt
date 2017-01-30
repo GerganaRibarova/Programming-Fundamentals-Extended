@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\16.TrickyStrings\bin\Debug\16.TrickyStrings.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\16.TrickyStrings\obj\Debug\16.TrickyStrings.pdb

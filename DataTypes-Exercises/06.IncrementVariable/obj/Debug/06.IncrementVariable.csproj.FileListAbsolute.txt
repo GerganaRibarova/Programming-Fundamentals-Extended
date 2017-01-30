@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.IncrementVariable\bin\Debug\06.IncrementVariable.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.IncrementVariable\bin\Debug\06.IncrementVariable.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.IncrementVariable\bin\Debug\06.IncrementVariable.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.IncrementVariable\obj\Debug\06.IncrementVariable.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\06.IncrementVariable\obj\Debug\06.IncrementVariable.pdb
