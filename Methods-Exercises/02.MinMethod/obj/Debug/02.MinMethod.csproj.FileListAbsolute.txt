@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\02.MinMethod\bin\Debug\02.MinMethod.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\02.MinMethod\bin\Debug\02.MinMethod.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\02.MinMethod\bin\Debug\02.MinMethod.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\02.MinMethod\obj\Debug\02.MinMethod.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\02.MinMethod\obj\Debug\02.MinMethod.pdb

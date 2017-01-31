@@ -1,0 +1,5 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\07.GreaterOfTwo\bin\Debug\07.GreaterOfTwo.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\07.GreaterOfTwo\bin\Debug\07.GreaterOfTwo.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\07.GreaterOfTwo\bin\Debug\07.GreaterOfTwo.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\07.GreaterOfTwo\obj\Debug\07.GreaterOfTwo.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\07.GreaterOfTwo\obj\Debug\07.GreaterOfTwo.pdb

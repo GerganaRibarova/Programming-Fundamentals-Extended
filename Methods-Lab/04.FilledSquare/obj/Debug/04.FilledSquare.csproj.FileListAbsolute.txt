@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\04.FilledSquare\bin\Debug\04.FilledSquare.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\04.FilledSquare\bin\Debug\04.FilledSquare.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\04.FilledSquare\bin\Debug\04.FilledSquare.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\04.FilledSquare\obj\Debug\04.FilledSquare.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\04.FilledSquare\obj\Debug\04.FilledSquare.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\04.FilledSquare\obj\Debug\04.FilledSquare.pdb

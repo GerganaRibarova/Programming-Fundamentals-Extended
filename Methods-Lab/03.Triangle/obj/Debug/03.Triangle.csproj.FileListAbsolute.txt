@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\03.Triangle\bin\Debug\03.Triangle.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\03.Triangle\bin\Debug\03.Triangle.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\03.Triangle\bin\Debug\03.Triangle.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\03.Triangle\obj\Debug\03.Triangle.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\03.Triangle\obj\Debug\03.Triangle.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\03.Triangle\obj\Debug\03.Triangle.pdb

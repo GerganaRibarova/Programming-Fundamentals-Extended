@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\Methods-Exercises\bin\Debug\Methods-Exercises.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\Methods-Exercises\bin\Debug\Methods-Exercises.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\Methods-Exercises\bin\Debug\Methods-Exercises.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\Methods-Exercises\obj\Debug\Methods-Exercises.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\Methods-Exercises\obj\Debug\Methods-Exercises.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Exercises\Methods-Exercises\obj\Debug\Methods-Exercises.pdb

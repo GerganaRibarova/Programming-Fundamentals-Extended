@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\05.TriangleArea\bin\Debug\05.TriangleArea.exe.config
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\05.TriangleArea\bin\Debug\05.TriangleArea.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\05.TriangleArea\bin\Debug\05.TriangleArea.pdb
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\05.TriangleArea\obj\Debug\05.TriangleArea.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\05.TriangleArea\obj\Debug\05.TriangleArea.exe
+E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\Methods-Lab\05.TriangleArea\obj\Debug\05.TriangleArea.pdb
