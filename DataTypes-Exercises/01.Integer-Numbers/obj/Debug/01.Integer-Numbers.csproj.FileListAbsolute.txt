@@ -4,3 +4,6 @@ E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Ty
 E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\01.Integer-Numbers\obj\Debug\01.Integer-Numbers.csprojResolveAssemblyReference.cache
 E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\01.Integer-Numbers\obj\Debug\01.Integer-Numbers.exe
 E:\Programming\Softuni\Programming Fundamentals - Extended\Data Types Numeral Types and Type Conversion - Lab\DataTypes-Exercises\01.Integer-Numbers\obj\Debug\01.Integer-Numbers.pdb
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\DataTypes-Exercises\01.Integer-Numbers\bin\Debug\01.Integer-Numbers.exe.config
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\DataTypes-Exercises\01.Integer-Numbers\obj\Debug\01.Integer-Numbers.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\DataTypes-Exercises\01.Integer-Numbers\obj\Debug\01.Integer-Numbers.pdb
