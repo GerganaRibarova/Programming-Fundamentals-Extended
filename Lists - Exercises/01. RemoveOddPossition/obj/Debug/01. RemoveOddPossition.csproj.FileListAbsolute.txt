@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\01. RemoveOddPossition\bin\Debug\_01.RemoveOddPossition.exe.config
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\01. RemoveOddPossition\bin\Debug\_01.RemoveOddPossition.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\01. RemoveOddPossition\bin\Debug\_01.RemoveOddPossition.pdb
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\01. RemoveOddPossition\obj\Debug\01. RemoveOddPossition.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\01. RemoveOddPossition\obj\Debug\_01.RemoveOddPossition.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\01. RemoveOddPossition\obj\Debug\_01.RemoveOddPossition.pdb

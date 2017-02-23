@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\01.LastThreeConsecutive\bin\Debug\01.LastThreeConsecutive.exe.config
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\01.LastThreeConsecutive\bin\Debug\01.LastThreeConsecutive.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\01.LastThreeConsecutive\bin\Debug\01.LastThreeConsecutive.pdb
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\01.LastThreeConsecutive\obj\Debug\01.LastThreeConsecutive.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\01.LastThreeConsecutive\obj\Debug\01.LastThreeConsecutive.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\01.LastThreeConsecutive\obj\Debug\01.LastThreeConsecutive.pdb

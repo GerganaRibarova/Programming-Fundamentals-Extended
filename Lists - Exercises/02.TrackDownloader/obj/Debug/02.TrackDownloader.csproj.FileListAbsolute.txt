@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.config
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\02.TrackDownloader\bin\Debug\02.TrackDownloader.pdb
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\02.TrackDownloader\obj\Debug\02.TrackDownloader.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\02.TrackDownloader\obj\Debug\02.TrackDownloader.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\02.TrackDownloader\obj\Debug\02.TrackDownloader.pdb

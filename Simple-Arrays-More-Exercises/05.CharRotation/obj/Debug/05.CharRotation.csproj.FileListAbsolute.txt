@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\05.CharRotation\bin\Debug\05.CharRotation.exe.config
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\05.CharRotation\bin\Debug\05.CharRotation.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\05.CharRotation\bin\Debug\05.CharRotation.pdb
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\05.CharRotation\obj\Debug\05.CharRotation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\05.CharRotation\obj\Debug\05.CharRotation.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\05.CharRotation\obj\Debug\05.CharRotation.pdb

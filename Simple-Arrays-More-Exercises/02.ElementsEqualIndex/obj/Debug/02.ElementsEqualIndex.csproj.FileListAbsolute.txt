@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\02.ElementsEqualIndex\bin\Debug\02.ElementsEqualIndex.exe.config
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\02.ElementsEqualIndex\bin\Debug\02.ElementsEqualIndex.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\02.ElementsEqualIndex\bin\Debug\02.ElementsEqualIndex.pdb
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\02.ElementsEqualIndex\obj\Debug\02.ElementsEqualIndex.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\02.ElementsEqualIndex\obj\Debug\02.ElementsEqualIndex.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\02.ElementsEqualIndex\obj\Debug\02.ElementsEqualIndex.pdb

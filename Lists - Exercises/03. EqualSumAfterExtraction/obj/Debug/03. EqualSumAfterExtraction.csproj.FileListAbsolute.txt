@@ -1,0 +1,6 @@
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\03. EqualSumAfterExtraction\bin\Debug\_03.EqualSumAfterExtraction.exe.config
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\03. EqualSumAfterExtraction\bin\Debug\_03.EqualSumAfterExtraction.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\03. EqualSumAfterExtraction\bin\Debug\_03.EqualSumAfterExtraction.pdb
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\03. EqualSumAfterExtraction\obj\Debug\03. EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\03. EqualSumAfterExtraction\obj\Debug\_03.EqualSumAfterExtraction.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\03. EqualSumAfterExtraction\obj\Debug\_03.EqualSumAfterExtraction.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\03.Phonebook\bin\Debug\03.Phonebook.exe.config
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\03.Phonebook\bin\Debug\03.Phonebook.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\03.Phonebook\bin\Debug\03.Phonebook.pdb
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\03.Phonebook\obj\Debug\03.Phonebook.exe
+C:\Users\user\Desktop\Simple-Arrays-More-Exercises\03.Phonebook\obj\Debug\03.Phonebook.pdb
