@@ -1,1 +1,6 @@
 E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\04. FlipListSides\bin\Debug\_04.FlipListSides.exe.config
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\04. FlipListSides\bin\Debug\_04.FlipListSides.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\04. FlipListSides\bin\Debug\_04.FlipListSides.pdb
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\04. FlipListSides\obj\Debug\04. FlipListSides.csprojResolveAssemblyReference.cache
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\04. FlipListSides\obj\Debug\_04.FlipListSides.exe
+E:\Programming\Softuni\Programming-Fundamentals\Programming-Fundamentals-Extended\Lists - Exercises\04. FlipListSides\obj\Debug\_04.FlipListSides.pdb
